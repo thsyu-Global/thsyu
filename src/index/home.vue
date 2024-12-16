@@ -1,6 +1,6 @@
 <template>
     <div class="hello">
-    thsyu.com
+    www.thsyu.com
     </div>
   </template>
   
